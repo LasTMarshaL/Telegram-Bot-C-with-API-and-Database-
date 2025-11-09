@@ -1,0 +1,46 @@
+# Build results
+bin/
+obj/
+out/
+
+# Visual Studio temporary files, build results, and
+# user-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.vs/
+
+# SQL Server files
+*.mdf
+*.ldf
+
+# Packages
+packages/
+*.nupkg
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+*.swp
+*.old
+*.cache
+
+# Visual Studio Code settings
+.vscode/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Others
+*.pdb
+*.exe
+*.dll
+*.class
+*.obj
+*.so
+*.lib
+*.a
+*.vsidx
